@@ -1,0 +1,3062 @@
+[
+  {
+    "seat": "001",
+    "exam1": {
+      "chinese": {
+        "choice": 50.0,
+        "mixed": 15.0,
+        "writing": 25.0,
+        "score": 57.5,
+        "gp": 12.0,
+        "rank": 14.0
+      },
+      "english": {
+        "choice": 45.0,
+        "non_choice": 20.0,
+        "score": 65.0,
+        "gp": 11.0,
+        "rank": 5.0
+      },
+      "math": {
+        "choice": 52.0,
+        "mixed": 15.0,
+        "score": 67.0,
+        "gp": 11.0,
+        "rank": 2.0
+      },
+      "social": {
+        "choice": 68.0,
+        "mixed": 43.0,
+        "score": 111.0,
+        "gp": 14.0,
+        "rank": 2.0
+      },
+      "total": {
+        "score": 300.5,
+        "gp": 48.0,
+        "rank_class": 1.0,
+        "rank_school": 8.0,
+        "rank_all": 4242.0,
+        "rank_gp_class": 1.0,
+        "rank_gp_school": 11.0,
+        "rank_gp_all": 4394.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 54.4,
+        "mixed": 19.0,
+        "writing": 28.0,
+        "score": 64.7,
+        "gp": 13.0,
+        "rank": 4.0
+      },
+      "english": {
+        "choice": 23.0,
+        "non_choice": 19.0,
+        "score": 42.0,
+        "gp": 8.0,
+        "rank": 14.0
+      },
+      "math": {
+        "choice": 36.0,
+        "mixed": 9.0,
+        "score": 45.0,
+        "gp": 7.0,
+        "rank": 3.0
+      },
+      "social": {
+        "choice": 52.0,
+        "mixed": 35.0,
+        "score": 87.0,
+        "gp": 12.0,
+        "rank": 5.0
+      },
+      "total": {
+        "score": 238.7,
+        "gp": 40.0,
+        "rank_class": 7.0,
+        "rank_school": 101.0,
+        "rank_all": 19437.0,
+        "rank_gp_class": 7.0,
+        "rank_gp_school": 101.0,
+        "rank_gp_all": 19501.0
+      }
+    }
+  },
+  {
+    "seat": "002",
+    "exam1": {
+      "chinese": {
+        "choice": 47.6,
+        "mixed": 8.0,
+        "writing": 16.0,
+        "score": 43.8,
+        "gp": 9.0,
+        "rank": 27.0
+      },
+      "english": {
+        "choice": 24.0,
+        "non_choice": 3.5,
+        "score": 27.5,
+        "gp": 5.0,
+        "rank": 30.0
+      },
+      "math": {
+        "choice": 25.0,
+        "mixed": 0.0,
+        "score": 25.0,
+        "gp": 4.0,
+        "rank": 16.0
+      },
+      "social": {
+        "choice": 62.0,
+        "mixed": 35.0,
+        "score": 97.0,
+        "gp": 13.0,
+        "rank": 7.0
+      },
+      "total": {
+        "score": 193.3,
+        "gp": 31.0,
+        "rank_class": 22.0,
+        "rank_school": 320.0,
+        "rank_all": 24075.0,
+        "rank_gp_class": 24.0,
+        "rank_gp_school": 329.0,
+        "rank_gp_all": 24836.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 43.2,
+        "mixed": 18.0,
+        "writing": 20.0,
+        "score": 50.6,
+        "gp": 10.0,
+        "rank": 29.0
+      },
+      "english": {
+        "choice": 27.0,
+        "non_choice": 1.0,
+        "score": 28.0,
+        "gp": 5.0,
+        "rank": 25.0
+      },
+      "math": {
+        "choice": 5.0,
+        "mixed": 3.0,
+        "score": 8.0,
+        "gp": 2.0,
+        "rank": 34.0
+      },
+      "social": {
+        "choice": 46.0,
+        "mixed": 28.0,
+        "score": 74.0,
+        "gp": 10.0,
+        "rank": 21.0
+      },
+      "total": {
+        "score": 160.6,
+        "gp": 27.0,
+        "rank_class": 27.0,
+        "rank_school": 394.0,
+        "rank_all": 51019.0,
+        "rank_gp_class": 27.0,
+        "rank_gp_school": 400.0,
+        "rank_gp_all": 51881.0
+      }
+    }
+  },
+  {
+    "seat": "003",
+    "exam1": {
+      "chinese": {
+        "choice": 24.0,
+        "mixed": 5.0,
+        "writing": 10.0,
+        "score": 24.5,
+        "gp": 5.0,
+        "rank": 35.0
+      },
+      "english": {
+        "choice": 27.0,
+        "non_choice": 8.5,
+        "score": 35.5,
+        "gp": 6.0,
+        "rank": 23.0
+      },
+      "math": {
+        "choice": 14.0,
+        "mixed": 0.0,
+        "score": 14.0,
+        "gp": 3.0,
+        "rank": 29.0
+      },
+      "social": {
+        "choice": 58.0,
+        "mixed": 21.0,
+        "score": 79.0,
+        "gp": 10.0,
+        "rank": 23.0
+      },
+      "total": {
+        "score": 153.0,
+        "gp": 24.0,
+        "rank_class": 29.0,
+        "rank_school": 405.0,
+        "rank_all": 33097.0,
+        "rank_gp_class": 32.0,
+        "rank_gp_school": 414.0,
+        "rank_gp_all": 34401.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 47.2,
+        "mixed": 12.0,
+        "writing": 16.0,
+        "score": 45.6,
+        "gp": 9.0,
+        "rank": 32.0
+      },
+      "english": {
+        "choice": 17.0,
+        "non_choice": 1.0,
+        "score": 18.0,
+        "gp": 4.0,
+        "rank": 32.0
+      },
+      "math": {
+        "choice": 17.0,
+        "mixed": 7.0,
+        "score": 24.0,
+        "gp": 4.0,
+        "rank": 19.0
+      },
+      "social": {
+        "choice": 42.0,
+        "mixed": 27.0,
+        "score": 69.0,
+        "gp": 10.0,
+        "rank": 25.0
+      },
+      "total": {
+        "score": 156.6,
+        "gp": 27.0,
+        "rank_class": 28.0,
+        "rank_school": 399.0,
+        "rank_all": 52539.0,
+        "rank_gp_class": 28.0,
+        "rank_gp_school": 402.0,
+        "rank_gp_all": 52611.0
+      }
+    }
+  },
+  {
+    "seat": "004",
+    "exam1": {
+      "chinese": {
+        "choice": 32.4,
+        "mixed": 13.0,
+        "writing": 28.0,
+        "score": 50.7,
+        "gp": 11.0,
+        "rank": 23.0
+      },
+      "english": {
+        "choice": 27.0,
+        "non_choice": 0.0,
+        "score": 27.0,
+        "gp": 5.0,
+        "rank": 31.0
+      },
+      "math": {
+        "choice": 23.0,
+        "mixed": 6.0,
+        "score": 29.0,
+        "gp": 5.0,
+        "rank": 12.0
+      },
+      "social": {
+        "choice": 54.0,
+        "mixed": 29.0,
+        "score": 83.0,
+        "gp": 11.0,
+        "rank": 17.0
+      },
+      "total": {
+        "score": 189.7,
+        "gp": 32.0,
+        "rank_class": 24.0,
+        "rank_school": 333.0,
+        "rank_all": 24988.0,
+        "rank_gp_class": 23.0,
+        "rank_gp_school": 324.0,
+        "rank_gp_all": 24348.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 57.2,
+        "mixed": 16.0,
+        "writing": 26.0,
+        "score": 62.6,
+        "gp": 12.0,
+        "rank": 9.0
+      },
+      "english": {
+        "choice": 6.0,
+        "non_choice": 8.0,
+        "score": 14.0,
+        "gp": 3.0,
+        "rank": 34.0
+      },
+      "math": {
+        "choice": 0.0,
+        "mixed": 0.0,
+        "score": 0.0,
+        "gp": 0.0,
+        "rank": ""
+      },
+      "social": {
+        "choice": 40.0,
+        "mixed": 32.0,
+        "score": 72.0,
+        "gp": 10.0,
+        "rank": 22.0
+      },
+      "total": {
+        "score": 148.6,
+        "gp": 25.0,
+        "rank_class": 32.0,
+        "rank_school": 416.0,
+        "rank_all": 55386.0,
+        "rank_gp_class": 33.0,
+        "rank_gp_school": 418.0,
+        "rank_gp_all": 56247.0
+      }
+    }
+  },
+  {
+    "seat": "005",
+    "exam1": {
+      "chinese": {
+        "choice": 47.6,
+        "mixed": 13.0,
+        "writing": 26.0,
+        "score": 56.3,
+        "gp": 12.0,
+        "rank": 16.0
+      },
+      "english": {
+        "choice": 27.0,
+        "non_choice": 13.5,
+        "score": 40.5,
+        "gp": 7.0,
+        "rank": 18.0
+      },
+      "math": {
+        "choice": 36.0,
+        "mixed": 15.0,
+        "score": 51.0,
+        "gp": 8.0,
+        "rank": 4.0
+      },
+      "social": {
+        "choice": 62.0,
+        "mixed": 21.0,
+        "score": 83.0,
+        "gp": 11.0,
+        "rank": 17.0
+      },
+      "total": {
+        "score": 230.8,
+        "gp": 38.0,
+        "rank_class": 10.0,
+        "rank_school": 164.0,
+        "rank_all": 15441.0,
+        "rank_gp_class": 9.0,
+        "rank_gp_school": 158.0,
+        "rank_gp_all": 15207.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 56.0,
+        "mixed": 21.0,
+        "writing": 26.0,
+        "score": 64.5,
+        "gp": 13.0,
+        "rank": 5.0
+      },
+      "english": {
+        "choice": 30.0,
+        "non_choice": 8.5,
+        "score": 38.5,
+        "gp": 7.0,
+        "rank": 17.0
+      },
+      "math": {
+        "choice": 22.0,
+        "mixed": 9.0,
+        "score": 31.0,
+        "gp": 5.0,
+        "rank": 10.0
+      },
+      "social": {
+        "choice": 52.0,
+        "mixed": 28.0,
+        "score": 80.0,
+        "gp": 11.0,
+        "rank": 12.0
+      },
+      "total": {
+        "score": 214.0,
+        "gp": 36.0,
+        "rank_class": 13.0,
+        "rank_school": 199.0,
+        "rank_all": 28387.0,
+        "rank_gp_class": 13.0,
+        "rank_gp_school": 199.0,
+        "rank_gp_all": 28497.0
+      }
+    }
+  },
+  {
+    "seat": "006",
+    "exam1": {
+      "chinese": {
+        "choice": 50.4,
+        "mixed": 12.0,
+        "writing": 27.0,
+        "score": 58.2,
+        "gp": 12.0,
+        "rank": 12.0
+      },
+      "english": {
+        "choice": 19.0,
+        "non_choice": 5.17,
+        "score": 24.17,
+        "gp": 4.0,
+        "rank": 35.0
+      },
+      "math": {
+        "choice": 15.0,
+        "mixed": 3.0,
+        "score": 18.0,
+        "gp": 3.0,
+        "rank": 26.0
+      },
+      "social": {
+        "choice": 56.0,
+        "mixed": 33.0,
+        "score": 89.0,
+        "gp": 12.0,
+        "rank": 12.0
+      },
+      "total": {
+        "score": 189.37,
+        "gp": 31.0,
+        "rank_class": 25.0,
+        "rank_school": 336.0,
+        "rank_all": 25079.0,
+        "rank_gp_class": 25.0,
+        "rank_gp_school": 331.0,
+        "rank_gp_all": 25243.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 51.6,
+        "mixed": 17.0,
+        "writing": 26.0,
+        "score": 60.3,
+        "gp": 12.0,
+        "rank": 14.0
+      },
+      "english": {
+        "choice": 15.0,
+        "non_choice": 1.0,
+        "score": 16.0,
+        "gp": 3.0,
+        "rank": 33.0
+      },
+      "math": {
+        "choice": 12.0,
+        "mixed": 3.0,
+        "score": 15.0,
+        "gp": 3.0,
+        "rank": 31.0
+      },
+      "social": {
+        "choice": 50.0,
+        "mixed": 29.0,
+        "score": 79.0,
+        "gp": 11.0,
+        "rank": 16.0
+      },
+      "total": {
+        "score": 170.3,
+        "gp": 29.0,
+        "rank_class": 26.0,
+        "rank_school": 376.0,
+        "rank_all": 46985.0,
+        "rank_gp_class": 26.0,
+        "rank_gp_school": 377.0,
+        "rank_gp_all": 47244.0
+      }
+    }
+  },
+  {
+    "seat": "008",
+    "exam1": {
+      "chinese": {
+        "choice": 36.8,
+        "mixed": 13.0,
+        "writing": 24.0,
+        "score": 48.9,
+        "gp": 10.0,
+        "rank": 24.0
+      },
+      "english": {
+        "choice": 51.0,
+        "non_choice": 18.33,
+        "score": 69.33,
+        "gp": 12.0,
+        "rank": 2.0
+      },
+      "math": {
+        "choice": 14.0,
+        "mixed": 0.0,
+        "score": 14.0,
+        "gp": 3.0,
+        "rank": 29.0
+      },
+      "social": {
+        "choice": 52.0,
+        "mixed": 19.0,
+        "score": 71.0,
+        "gp": 9.0,
+        "rank": 28.0
+      },
+      "total": {
+        "score": 203.23,
+        "gp": 34.0,
+        "rank_class": 16.0,
+        "rank_school": 287.0,
+        "rank_all": 21696.0,
+        "rank_gp_class": 16.0,
+        "rank_gp_school": 278.0,
+        "rank_gp_all": 21184.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 42.0,
+        "mixed": 14.0,
+        "writing": 27.0,
+        "score": 55.0,
+        "gp": 11.0,
+        "rank": 21.0
+      },
+      "english": {
+        "choice": 50.0,
+        "non_choice": 24.5,
+        "score": 74.5,
+        "gp": 13.0,
+        "rank": 1.0
+      },
+      "math": {
+        "choice": 9.0,
+        "mixed": 8.0,
+        "score": 17.0,
+        "gp": 3.0,
+        "rank": 26.0
+      },
+      "social": {
+        "choice": 44.0,
+        "mixed": 26.0,
+        "score": 70.0,
+        "gp": 10.0,
+        "rank": 23.0
+      },
+      "total": {
+        "score": 216.5,
+        "gp": 37.0,
+        "rank_class": 12.0,
+        "rank_school": 189.0,
+        "rank_all": 27458.0,
+        "rank_gp_class": 12.0,
+        "rank_gp_school": 182.0,
+        "rank_gp_all": 26908.0
+      }
+    }
+  },
+  {
+    "seat": "009",
+    "exam1": {
+      "chinese": {
+        "choice": 16.4,
+        "mixed": 4.0,
+        "writing": 8.0,
+        "score": 18.2,
+        "gp": 4.0,
+        "rank": 36.0
+      },
+      "english": {
+        "choice": 18.0,
+        "non_choice": 8.33,
+        "score": 26.33,
+        "gp": 5.0,
+        "rank": 32.0
+      },
+      "math": {
+        "choice": 32.0,
+        "mixed": 0.0,
+        "score": 32.0,
+        "gp": 5.0,
+        "rank": 10.0
+      },
+      "social": {
+        "choice": 26.0,
+        "mixed": 4.0,
+        "score": 30.0,
+        "gp": 4.0,
+        "rank": 35.0
+      },
+      "total": {
+        "score": 106.53,
+        "gp": 18.0,
+        "rank_class": 35.0,
+        "rank_school": 426.0,
+        "rank_all": 39121.0,
+        "rank_gp_class": 34.0,
+        "rank_gp_school": 426.0,
+        "rank_gp_all": 39199.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 46.4,
+        "mixed": 2.0,
+        "writing": 8.0,
+        "score": 32.2,
+        "gp": 7.0,
+        "rank": 36.0
+      },
+      "english": {
+        "choice": 24.0,
+        "non_choice": 2.0,
+        "score": 26.0,
+        "gp": 5.0,
+        "rank": 28.0
+      },
+      "math": {
+        "choice": 19.0,
+        "mixed": 11.0,
+        "score": 30.0,
+        "gp": 5.0,
+        "rank": 11.0
+      },
+      "social": {
+        "choice": 30.0,
+        "mixed": 13.0,
+        "score": 43.0,
+        "gp": 6.0,
+        "rank": 35.0
+      },
+      "total": {
+        "score": 131.2,
+        "gp": 23.0,
+        "rank_class": 34.0,
+        "rank_school": 430.0,
+        "rank_all": 60324.0,
+        "rank_gp_class": 34.0,
+        "rank_gp_school": 430.0,
+        "rank_gp_all": 60338.0
+      }
+    }
+  },
+  {
+    "seat": "010",
+    "exam1": {
+      "chinese": {
+        "choice": 42.0,
+        "mixed": 2.0,
+        "writing": 11.0,
+        "score": 33.0,
+        "gp": 7.0,
+        "rank": 31.0
+      },
+      "english": {
+        "choice": 27.0,
+        "non_choice": 10.33,
+        "score": 37.33,
+        "gp": 7.0,
+        "rank": 22.0
+      },
+      "math": {
+        "choice": 38.0,
+        "mixed": 0.0,
+        "score": 38.0,
+        "gp": 6.0,
+        "rank": 9.0
+      },
+      "social": {
+        "choice": 32.0,
+        "mixed": 2.0,
+        "score": 34.0,
+        "gp": 5.0,
+        "rank": 34.0
+      },
+      "total": {
+        "score": 142.33,
+        "gp": 25.0,
+        "rank_class": 32.0,
+        "rank_school": 415.0,
+        "rank_all": 35035.0,
+        "rank_gp_class": 31.0,
+        "rank_gp_school": 412.0,
+        "rank_gp_all": 34293.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 27.6,
+        "mixed": 2.0,
+        "writing": 18.0,
+        "score": 32.8,
+        "gp": 7.0,
+        "rank": 35.0
+      },
+      "english": {
+        "choice": 18.0,
+        "non_choice": 8.0,
+        "score": 26.0,
+        "gp": 5.0,
+        "rank": 28.0
+      },
+      "math": {
+        "choice": 30.0,
+        "mixed": 5.0,
+        "score": 35.0,
+        "gp": 6.0,
+        "rank": 6.0
+      },
+      "social": {
+        "choice": 34.0,
+        "mixed": 2.0,
+        "score": 36.0,
+        "gp": 5.0,
+        "rank": 36.0
+      },
+      "total": {
+        "score": 129.8,
+        "gp": 23.0,
+        "rank_class": 35.0,
+        "rank_school": 433.0,
+        "rank_all": 60644.0,
+        "rank_gp_class": 35.0,
+        "rank_gp_school": 432.0,
+        "rank_gp_all": 60504.0
+      }
+    }
+  },
+  {
+    "seat": "011",
+    "exam1": {
+      "chinese": {
+        "choice": 30.4,
+        "mixed": 12.0,
+        "writing": 22.0,
+        "score": 43.2,
+        "gp": 9.0,
+        "rank": 28.0
+      },
+      "english": {
+        "choice": 46.0,
+        "non_choice": 17.83,
+        "score": 63.83,
+        "gp": 11.0,
+        "rank": 6.0
+      },
+      "math": {
+        "choice": 38.0,
+        "mixed": 3.0,
+        "score": 41.0,
+        "gp": 7.0,
+        "rank": 7.0
+      },
+      "social": {
+        "choice": 66.0,
+        "mixed": 38.0,
+        "score": 104.0,
+        "gp": 13.0,
+        "rank": 4.0
+      },
+      "total": {
+        "score": 252.03,
+        "gp": 40.0,
+        "rank_class": 7.0,
+        "rank_school": 87.0,
+        "rank_all": 11305.0,
+        "rank_gp_class": 8.0,
+        "rank_gp_school": 98.0,
+        "rank_gp_all": 11962.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 42.0,
+        "mixed": 18.0,
+        "writing": 23.0,
+        "score": 53.0,
+        "gp": 11.0,
+        "rank": 26.0
+      },
+      "english": {
+        "choice": 42.0,
+        "non_choice": 21.0,
+        "score": 63.0,
+        "gp": 11.0,
+        "rank": 6.0
+      },
+      "math": {
+        "choice": 20.0,
+        "mixed": 3.0,
+        "score": 23.0,
+        "gp": 4.0,
+        "rank": 20.0
+      },
+      "social": {
+        "choice": 72.0,
+        "mixed": 31.0,
+        "score": 103.0,
+        "gp": 14.0,
+        "rank": 1.0
+      },
+      "total": {
+        "score": 242.0,
+        "gp": 40.0,
+        "rank_class": 6.0,
+        "rank_school": 83.0,
+        "rank_all": 18353.0,
+        "rank_gp_class": 6.0,
+        "rank_gp_school": 93.0,
+        "rank_gp_all": 18929.0
+      }
+    }
+  },
+  {
+    "seat": "013",
+    "exam1": {
+      "chinese": {
+        "choice": 41.2,
+        "mixed": 10.0,
+        "writing": 16.0,
+        "score": 41.6,
+        "gp": 9.0,
+        "rank": 29.0
+      },
+      "english": {
+        "choice": 26.0,
+        "non_choice": 7.5,
+        "score": 33.5,
+        "gp": 6.0,
+        "rank": 24.0
+      },
+      "math": {
+        "choice": 27.0,
+        "mixed": 0.0,
+        "score": 27.0,
+        "gp": 5.0,
+        "rank": 14.0
+      },
+      "social": {
+        "choice": 60.0,
+        "mixed": 20.0,
+        "score": 80.0,
+        "gp": 10.0,
+        "rank": 22.0
+      },
+      "total": {
+        "score": 182.1,
+        "gp": 30.0,
+        "rank_class": 27.0,
+        "rank_school": 361.0,
+        "rank_all": 26835.0,
+        "rank_gp_class": 26.0,
+        "rank_gp_school": 360.0,
+        "rank_gp_all": 26899.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 44.4,
+        "mixed": 12.0,
+        "writing": 24.0,
+        "score": 52.2,
+        "gp": 10.0,
+        "rank": 27.0
+      },
+      "english": {
+        "choice": 23.0,
+        "non_choice": 10.0,
+        "score": 33.0,
+        "gp": 6.0,
+        "rank": 21.0
+      },
+      "math": {
+        "choice": 20.0,
+        "mixed": 3.0,
+        "score": 23.0,
+        "gp": 4.0,
+        "rank": 20.0
+      },
+      "social": {
+        "choice": 42.0,
+        "mixed": 23.0,
+        "score": 65.0,
+        "gp": 9.0,
+        "rank": 30.0
+      },
+      "total": {
+        "score": 173.2,
+        "gp": 29.0,
+        "rank_class": 25.0,
+        "rank_school": 367.0,
+        "rank_all": 45820.0,
+        "rank_gp_class": 25.0,
+        "rank_gp_school": 372.0,
+        "rank_gp_all": 46686.0
+      }
+    }
+  },
+  {
+    "seat": "014",
+    "exam1": {
+      "chinese": {
+        "choice": 28.0,
+        "mixed": 11.0,
+        "writing": 18.0,
+        "score": 37.5,
+        "gp": 8.0,
+        "rank": 30.0
+      },
+      "english": {
+        "choice": 33.0,
+        "non_choice": 7.5,
+        "score": 40.5,
+        "gp": 7.0,
+        "rank": 18.0
+      },
+      "math": {
+        "choice": 17.0,
+        "mixed": 3.0,
+        "score": 20.0,
+        "gp": 4.0,
+        "rank": 21.0
+      },
+      "social": {
+        "choice": 44.0,
+        "mixed": 26.0,
+        "score": 70.0,
+        "gp": 9.0,
+        "rank": 30.0
+      },
+      "total": {
+        "score": 168.0,
+        "gp": 28.0,
+        "rank_class": 28.0,
+        "rank_school": 390.0,
+        "rank_all": 30079.0,
+        "rank_gp_class": 28.0,
+        "rank_gp_school": 388.0,
+        "rank_gp_all": 29992.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 47.2,
+        "mixed": 8.0,
+        "writing": 15.0,
+        "score": 42.6,
+        "gp": 9.0,
+        "rank": 33.0
+      },
+      "english": {
+        "choice": 28.0,
+        "non_choice": 6.0,
+        "score": 34.0,
+        "gp": 6.0,
+        "rank": 19.0
+      },
+      "math": {
+        "choice": 16.0,
+        "mixed": 0.0,
+        "score": 16.0,
+        "gp": 3.0,
+        "rank": 29.0
+      },
+      "social": {
+        "choice": 40.0,
+        "mixed": 14.0,
+        "score": 54.0,
+        "gp": 8.0,
+        "rank": 34.0
+      },
+      "total": {
+        "score": 146.6,
+        "gp": 26.0,
+        "rank_class": 33.0,
+        "rank_school": 418.0,
+        "rank_all": 56038.0,
+        "rank_gp_class": 32.0,
+        "rank_gp_school": 415.0,
+        "rank_gp_all": 55476.0
+      }
+    }
+  },
+  {
+    "seat": "015",
+    "exam1": {
+      "chinese": {
+        "choice": 56.8,
+        "mixed": 11.0,
+        "writing": 25.0,
+        "score": 58.9,
+        "gp": 12.0,
+        "rank": 9.0
+      },
+      "english": {
+        "choice": 25.0,
+        "non_choice": 15.0,
+        "score": 40.0,
+        "gp": 7.0,
+        "rank": 20.0
+      },
+      "math": {
+        "choice": 17.0,
+        "mixed": 3.0,
+        "score": 20.0,
+        "gp": 4.0,
+        "rank": 21.0
+      },
+      "social": {
+        "choice": 52.0,
+        "mixed": 29.0,
+        "score": 81.0,
+        "gp": 11.0,
+        "rank": 19.0
+      },
+      "total": {
+        "score": 199.9,
+        "gp": 34.0,
+        "rank_class": 19.0,
+        "rank_school": 294.0,
+        "rank_all": 22482.0,
+        "rank_gp_class": 18.0,
+        "rank_gp_school": 280.0,
+        "rank_gp_all": 21400.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 52.0,
+        "mixed": 12.0,
+        "writing": 28.0,
+        "score": 60.0,
+        "gp": 12.0,
+        "rank": 15.0
+      },
+      "english": {
+        "choice": 21.0,
+        "non_choice": 10.5,
+        "score": 31.5,
+        "gp": 6.0,
+        "rank": 23.0
+      },
+      "math": {
+        "choice": 22.0,
+        "mixed": 3.0,
+        "score": 25.0,
+        "gp": 4.0,
+        "rank": 15.0
+      },
+      "social": {
+        "choice": 48.0,
+        "mixed": 19.0,
+        "score": 67.0,
+        "gp": 9.0,
+        "rank": 28.0
+      },
+      "total": {
+        "score": 183.5,
+        "gp": 31.0,
+        "rank_class": 21.0,
+        "rank_school": 338.0,
+        "rank_all": 41362.0,
+        "rank_gp_class": 21.0,
+        "rank_gp_school": 341.0,
+        "rank_gp_all": 41686.0
+      }
+    }
+  },
+  {
+    "seat": "016",
+    "exam1": {
+      "chinese": {
+        "choice": 47.6,
+        "mixed": 10.0,
+        "writing": 30.0,
+        "score": 58.8,
+        "gp": 12.0,
+        "rank": 10.0
+      },
+      "english": {
+        "choice": 36.0,
+        "non_choice": 17.5,
+        "score": 53.5,
+        "gp": 9.0,
+        "rank": 15.0
+      },
+      "math": {
+        "choice": 25.0,
+        "mixed": 3.0,
+        "score": 28.0,
+        "gp": 5.0,
+        "rank": 13.0
+      },
+      "social": {
+        "choice": 50.0,
+        "mixed": 27.0,
+        "score": 77.0,
+        "gp": 10.0,
+        "rank": 26.0
+      },
+      "total": {
+        "score": 217.3,
+        "gp": 36.0,
+        "rank_class": 12.0,
+        "rank_school": 234.0,
+        "rank_all": 18443.0,
+        "rank_gp_class": 13.0,
+        "rank_gp_school": 230.0,
+        "rank_gp_all": 18139.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 52.4,
+        "mixed": 13.0,
+        "writing": 26.0,
+        "score": 53.43483,
+        "gp": 11.0,
+        "rank": 25.0
+      },
+      "english": {
+        "choice": 24.0,
+        "non_choice": 13.0,
+        "score": 37.0,
+        "gp": 7.0,
+        "rank": 18.0
+      },
+      "math": {
+        "choice": 9.0,
+        "mixed": 0.0,
+        "score": 9.0,
+        "gp": 2.0,
+        "rank": 33.0
+      },
+      "social": {
+        "choice": 54.0,
+        "mixed": 29.0,
+        "score": 83.0,
+        "gp": 11.0,
+        "rank": 9.0
+      },
+      "total": {
+        "score": 182.43,
+        "gp": 31.0,
+        "rank_class": 22.0,
+        "rank_school": 343.0,
+        "rank_all": 41843.0,
+        "rank_gp_class": 22.0,
+        "rank_gp_school": 345.0,
+        "rank_gp_all": 41945.0
+      }
+    }
+  },
+  {
+    "seat": "017",
+    "exam1": {
+      "chinese": {
+        "choice": 48.4,
+        "mixed": 15.0,
+        "writing": 25.0,
+        "score": 56.7,
+        "gp": 12.0,
+        "rank": 15.0
+      },
+      "english": {
+        "choice": 37.0,
+        "non_choice": 19.0,
+        "score": 56.0,
+        "gp": 10.0,
+        "rank": 13.0
+      },
+      "math": {
+        "choice": 19.0,
+        "mixed": 3.0,
+        "score": 22.0,
+        "gp": 4.0,
+        "rank": 19.0
+      },
+      "social": {
+        "choice": 58.0,
+        "mixed": 23.0,
+        "score": 81.0,
+        "gp": 11.0,
+        "rank": 19.0
+      },
+      "total": {
+        "score": 215.7,
+        "gp": 37.0,
+        "rank_class": 13.0,
+        "rank_school": 239.0,
+        "rank_all": 18784.0,
+        "rank_gp_class": 12.0,
+        "rank_gp_school": 201.0,
+        "rank_gp_all": 17074.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 57.2,
+        "mixed": 19.0,
+        "writing": 27.0,
+        "score": 65.1,
+        "gp": 13.0,
+        "rank": 3.0
+      },
+      "english": {
+        "choice": 42.0,
+        "non_choice": 9.0,
+        "score": 51.0,
+        "gp": 9.0,
+        "rank": 10.0
+      },
+      "math": {
+        "choice": 24.0,
+        "mixed": 3.0,
+        "score": 27.0,
+        "gp": 5.0,
+        "rank": 13.0
+      },
+      "social": {
+        "choice": 52.0,
+        "mixed": 24.0,
+        "score": 76.0,
+        "gp": 11.0,
+        "rank": 17.0
+      },
+      "total": {
+        "score": 219.1,
+        "gp": 38.0,
+        "rank_class": 11.0,
+        "rank_school": 175.0,
+        "rank_all": 26421.0,
+        "rank_gp_class": 11.0,
+        "rank_gp_school": 157.0,
+        "rank_gp_all": 24958.0
+      }
+    }
+  },
+  {
+    "seat": "018",
+    "exam1": {
+      "chinese": {
+        "choice": 36.8,
+        "mixed": 12.0,
+        "writing": 27.0,
+        "score": 51.4,
+        "gp": 11.0,
+        "rank": 22.0
+      },
+      "english": {
+        "choice": 44.0,
+        "non_choice": 15.33,
+        "score": 59.33,
+        "gp": 10.0,
+        "rank": 10.0
+      },
+      "math": {
+        "choice": 29.0,
+        "mixed": 3.0,
+        "score": 32.0,
+        "gp": 5.0,
+        "rank": 10.0
+      },
+      "social": {
+        "choice": 60.0,
+        "mixed": 24.0,
+        "score": 84.0,
+        "gp": 11.0,
+        "rank": 14.0
+      },
+      "total": {
+        "score": 226.73,
+        "gp": 37.0,
+        "rank_class": 11.0,
+        "rank_school": 186.0,
+        "rank_all": 16318.0,
+        "rank_gp_class": 11.0,
+        "rank_gp_school": 185.0,
+        "rank_gp_all": 16350.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 52.8,
+        "mixed": 17.0,
+        "writing": 29.0,
+        "score": 63.9,
+        "gp": 13.0,
+        "rank": 6.0
+      },
+      "english": {
+        "choice": 38.0,
+        "non_choice": 14.0,
+        "score": 52.0,
+        "gp": 9.0,
+        "rank": 9.0
+      },
+      "math": {
+        "choice": 32.0,
+        "mixed": 9.0,
+        "score": 41.0,
+        "gp": 7.0,
+        "rank": 4.0
+      },
+      "social": {
+        "choice": 48.0,
+        "mixed": 38.0,
+        "score": 86.0,
+        "gp": 12.0,
+        "rank": 7.0
+      },
+      "total": {
+        "score": 242.9,
+        "gp": 41.0,
+        "rank_class": 4.0,
+        "rank_school": 80.0,
+        "rank_all": 18057.0,
+        "rank_gp_class": 4.0,
+        "rank_gp_school": 79.0,
+        "rank_gp_all": 17838.0
+      }
+    }
+  },
+  {
+    "seat": "019",
+    "exam1": {
+      "chinese": {
+        "choice": 50.0,
+        "mixed": 13.0,
+        "writing": 28.0,
+        "score": 59.5,
+        "gp": 12.0,
+        "rank": 8.0
+      },
+      "english": {
+        "choice": 25.0,
+        "non_choice": 1.33,
+        "score": 26.33,
+        "gp": 5.0,
+        "rank": 32.0
+      },
+      "math": {
+        "choice": 15.0,
+        "mixed": 3.0,
+        "score": 18.0,
+        "gp": 3.0,
+        "rank": 26.0
+      },
+      "social": {
+        "choice": 64.0,
+        "mixed": 29.0,
+        "score": 93.0,
+        "gp": 12.0,
+        "rank": 9.0
+      },
+      "total": {
+        "score": 196.83,
+        "gp": 32.0,
+        "rank_class": 21.0,
+        "rank_school": 308.0,
+        "rank_all": 23228.0,
+        "rank_gp_class": 21.0,
+        "rank_gp_school": 313.0,
+        "rank_gp_all": 23531.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 44.8,
+        "mixed": 13.0,
+        "writing": 19.0,
+        "score": 47.9,
+        "gp": 10.0,
+        "rank": 31.0
+      },
+      "english": {
+        "choice": 13.0,
+        "non_choice": 0.0,
+        "score": 13.0,
+        "gp": 3.0,
+        "rank": 35.0
+      },
+      "math": {
+        "choice": 10.0,
+        "mixed": 3.0,
+        "score": 13.0,
+        "gp": 3.0,
+        "rank": 32.0
+      },
+      "social": {
+        "choice": 50.0,
+        "mixed": 32.0,
+        "score": 82.0,
+        "gp": 11.0,
+        "rank": 11.0
+      },
+      "total": {
+        "score": 155.9,
+        "gp": 27.0,
+        "rank_class": 29.0,
+        "rank_school": 400.0,
+        "rank_all": 52820.0,
+        "rank_gp_class": 29.0,
+        "rank_gp_school": 403.0,
+        "rank_gp_all": 52774.0
+      }
+    }
+  },
+  {
+    "seat": "020",
+    "exam1": {
+      "chinese": {
+        "choice": 38.0,
+        "mixed": 15.0,
+        "writing": 21.0,
+        "score": 47.5,
+        "gp": 10.0,
+        "rank": 25.0
+      },
+      "english": {
+        "choice": 22.0,
+        "non_choice": 9.5,
+        "score": 31.5,
+        "gp": 6.0,
+        "rank": 26.0
+      },
+      "math": {
+        "choice": 8.0,
+        "mixed": 3.0,
+        "score": 11.0,
+        "gp": 2.0,
+        "rank": 33.0
+      },
+      "social": {
+        "choice": 50.0,
+        "mixed": 13.0,
+        "score": 63.0,
+        "gp": 8.0,
+        "rank": 31.0
+      },
+      "total": {
+        "score": 153.0,
+        "gp": 26.0,
+        "rank_class": 29.0,
+        "rank_school": 405.0,
+        "rank_all": 33097.0,
+        "rank_gp_class": 29.0,
+        "rank_gp_school": 403.0,
+        "rank_gp_all": 32830.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 47.2,
+        "mixed": 14.0,
+        "writing": 21.0,
+        "score": 51.6,
+        "gp": 10.0,
+        "rank": 28.0
+      },
+      "english": {
+        "choice": 13.0,
+        "non_choice": 7.0,
+        "score": 20.0,
+        "gp": 4.0,
+        "rank": 31.0
+      },
+      "math": {
+        "choice": 14.0,
+        "mixed": 3.0,
+        "score": 17.0,
+        "gp": 3.0,
+        "rank": 26.0
+      },
+      "social": {
+        "choice": 40.0,
+        "mixed": 21.0,
+        "score": 61.0,
+        "gp": 9.0,
+        "rank": 31.0
+      },
+      "total": {
+        "score": 149.6,
+        "gp": 26.0,
+        "rank_class": 31.0,
+        "rank_school": 414.0,
+        "rank_all": 55043.0,
+        "rank_gp_class": 31.0,
+        "rank_gp_school": 413.0,
+        "rank_gp_all": 54971.0
+      }
+    }
+  },
+  {
+    "seat": "021",
+    "exam1": {
+      "chinese": {
+        "choice": 48.4,
+        "mixed": 18.0,
+        "writing": 31.0,
+        "score": 64.2,
+        "gp": 13.0,
+        "rank": 4.0
+      },
+      "english": {
+        "choice": 13.0,
+        "non_choice": 12.0,
+        "score": 25.0,
+        "gp": 5.0,
+        "rank": 34.0
+      },
+      "math": {
+        "choice": 17.0,
+        "mixed": 3.0,
+        "score": 20.0,
+        "gp": 4.0,
+        "rank": 21.0
+      },
+      "social": {
+        "choice": 64.0,
+        "mixed": 30.0,
+        "score": 94.0,
+        "gp": 12.0,
+        "rank": 8.0
+      },
+      "total": {
+        "score": 203.2,
+        "gp": 34.0,
+        "rank_class": 17.0,
+        "rank_school": 288.0,
+        "rank_all": 21707.0,
+        "rank_gp_class": 17.0,
+        "rank_gp_school": 279.0,
+        "rank_gp_all": 21191.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 55.6,
+        "mixed": 15.0,
+        "writing": 27.0,
+        "score": 62.3,
+        "gp": 12.0,
+        "rank": 10.0
+      },
+      "english": {
+        "choice": 13.0,
+        "non_choice": 11.0,
+        "score": 24.0,
+        "gp": 5.0,
+        "rank": 30.0
+      },
+      "math": {
+        "choice": 15.0,
+        "mixed": 3.0,
+        "score": 18.0,
+        "gp": 3.0,
+        "rank": 25.0
+      },
+      "social": {
+        "choice": 54.0,
+        "mixed": 38.0,
+        "score": 92.0,
+        "gp": 13.0,
+        "rank": 4.0
+      },
+      "total": {
+        "score": 196.3,
+        "gp": 33.0,
+        "rank_class": 19.0,
+        "rank_school": 295.0,
+        "rank_all": 35770.0,
+        "rank_gp_class": 19.0,
+        "rank_gp_school": 297.0,
+        "rank_gp_all": 36157.0
+      }
+    }
+  },
+  {
+    "seat": "022",
+    "exam1": {
+      "chinese": {
+        "choice": 27.6,
+        "mixed": 5.0,
+        "writing": 16.0,
+        "score": 32.3,
+        "gp": 7.0,
+        "rank": 32.0
+      },
+      "english": {
+        "choice": 0.0,
+        "non_choice": 0.0,
+        "score": 0.0,
+        "gp": 0.0,
+        "rank": ""
+      },
+      "math": {
+        "choice": 0.0,
+        "mixed": 0.0,
+        "score": 0.0,
+        "gp": 0.0,
+        "rank": ""
+      },
+      "social": {
+        "choice": 60.0,
+        "mixed": 17.0,
+        "score": 77.0,
+        "gp": 10.0,
+        "rank": 26.0
+      },
+      "total": {
+        "score": 109.3,
+        "gp": 17.0,
+        "rank_class": 34.0,
+        "rank_school": 425.0,
+        "rank_all": 38914.0,
+        "rank_gp_class": 35.0,
+        "rank_gp_school": 427.0,
+        "rank_gp_all": 39469.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 50.4,
+        "mixed": 14.0,
+        "writing": 18.0,
+        "score": 50.2,
+        "gp": 10.0,
+        "rank": 30.0
+      },
+      "english": {
+        "choice": 8.0,
+        "non_choice": 0.0,
+        "score": 8.0,
+        "gp": 2.0,
+        "rank": 36.0
+      },
+      "math": {
+        "choice": 0.0,
+        "mixed": 0.0,
+        "score": 0.0,
+        "gp": 0.0,
+        "rank": ""
+      },
+      "social": {
+        "choice": 46.0,
+        "mixed": 19.0,
+        "score": 57.43362,
+        "gp": 8.0,
+        "rank": 32.0
+      },
+      "total": {
+        "score": 115.63,
+        "gp": 20.0,
+        "rank_class": 36.0,
+        "rank_school": 437.0,
+        "rank_all": 63480.0,
+        "rank_gp_class": 36.0,
+        "rank_gp_school": 439.0,
+        "rank_gp_all": 63757.0
+      }
+    }
+  },
+  {
+    "seat": "023",
+    "exam1": {
+      "chinese": {
+        "choice": 57.6,
+        "mixed": 19.0,
+        "writing": 30.0,
+        "score": 68.3,
+        "gp": 14.0,
+        "rank": 2.0
+      },
+      "english": {
+        "choice": 42.0,
+        "non_choice": 15.0,
+        "score": 57.0,
+        "gp": 10.0,
+        "rank": 12.0
+      },
+      "math": {
+        "choice": 38.0,
+        "mixed": 10.0,
+        "score": 48.0,
+        "gp": 8.0,
+        "rank": 5.0
+      },
+      "social": {
+        "choice": 78.0,
+        "mixed": 34.0,
+        "score": 112.0,
+        "gp": 14.0,
+        "rank": 1.0
+      },
+      "total": {
+        "score": 285.3,
+        "gp": 46.0,
+        "rank_class": 2.0,
+        "rank_school": 25.0,
+        "rank_all": 6086.0,
+        "rank_gp_class": 2.0,
+        "rank_gp_school": 25.0,
+        "rank_gp_all": 6104.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 51.2,
+        "mixed": 20.0,
+        "writing": 26.0,
+        "score": 61.6,
+        "gp": 12.0,
+        "rank": 12.0
+      },
+      "english": {
+        "choice": 24.0,
+        "non_choice": 16.5,
+        "score": 40.5,
+        "gp": 7.0,
+        "rank": 16.0
+      },
+      "math": {
+        "choice": 31.0,
+        "mixed": 9.0,
+        "score": 40.0,
+        "gp": 7.0,
+        "rank": 5.0
+      },
+      "social": {
+        "choice": 66.0,
+        "mixed": 34.0,
+        "score": 100.0,
+        "gp": 14.0,
+        "rank": 2.0
+      },
+      "total": {
+        "score": 242.1,
+        "gp": 40.0,
+        "rank_class": 5.0,
+        "rank_school": 82.0,
+        "rank_all": 18333.0,
+        "rank_gp_class": 5.0,
+        "rank_gp_school": 92.0,
+        "rank_gp_all": 18922.0
+      }
+    }
+  },
+  {
+    "seat": "024",
+    "exam1": {
+      "chinese": {
+        "choice": 44.8,
+        "mixed": 10.0,
+        "writing": 26.0,
+        "score": 53.4,
+        "gp": 11.0,
+        "rank": 18.0
+      },
+      "english": {
+        "choice": 44.0,
+        "non_choice": 24.5,
+        "score": 68.5,
+        "gp": 12.0,
+        "rank": 3.0
+      },
+      "math": {
+        "choice": 42.0,
+        "mixed": 15.0,
+        "score": 57.0,
+        "gp": 9.0,
+        "rank": 3.0
+      },
+      "social": {
+        "choice": 70.0,
+        "mixed": 23.0,
+        "score": 93.0,
+        "gp": 12.0,
+        "rank": 9.0
+      },
+      "total": {
+        "score": 271.9,
+        "gp": 44.0,
+        "rank_class": 5.0,
+        "rank_school": 45.0,
+        "rank_all": 7954.0,
+        "rank_gp_class": 5.0,
+        "rank_gp_school": 45.0,
+        "rank_gp_all": 7980.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 46.0,
+        "mixed": 20.0,
+        "writing": 21.0,
+        "score": 54.0,
+        "gp": 11.0,
+        "rank": 24.0
+      },
+      "english": {
+        "choice": 40.0,
+        "non_choice": 21.5,
+        "score": 61.5,
+        "gp": 11.0,
+        "rank": 7.0
+      },
+      "math": {
+        "choice": 29.0,
+        "mixed": 4.0,
+        "score": 33.0,
+        "gp": 6.0,
+        "rank": 9.0
+      },
+      "social": {
+        "choice": 48.0,
+        "mixed": 28.0,
+        "score": 76.0,
+        "gp": 11.0,
+        "rank": 17.0
+      },
+      "total": {
+        "score": 224.5,
+        "gp": 39.0,
+        "rank_class": 9.0,
+        "rank_school": 145.0,
+        "rank_all": 24401.0,
+        "rank_gp_class": 8.0,
+        "rank_gp_school": 130.0,
+        "rank_gp_all": 22744.0
+      }
+    }
+  },
+  {
+    "seat": "026",
+    "exam1": {
+      "chinese": {
+        "choice": 52.4,
+        "mixed": 14.0,
+        "writing": 25.0,
+        "score": 58.2,
+        "gp": 12.0,
+        "rank": 12.0
+      },
+      "english": {
+        "choice": 49.0,
+        "non_choice": 26.0,
+        "score": 75.0,
+        "gp": 13.0,
+        "rank": 1.0
+      },
+      "math": {
+        "choice": 60.0,
+        "mixed": 11.0,
+        "score": 71.0,
+        "gp": 11.0,
+        "rank": 1.0
+      },
+      "social": {
+        "choice": 54.0,
+        "mixed": 25.0,
+        "score": 79.0,
+        "gp": 10.0,
+        "rank": 23.0
+      },
+      "total": {
+        "score": 283.2,
+        "gp": 46.0,
+        "rank_class": 4.0,
+        "rank_school": 30.0,
+        "rank_all": 6368.0,
+        "rank_gp_class": 4.0,
+        "rank_gp_school": 28.0,
+        "rank_gp_all": 6252.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 50.0,
+        "mixed": 15.0,
+        "writing": 22.0,
+        "score": 54.5,
+        "gp": 11.0,
+        "rank": 22.0
+      },
+      "english": {
+        "choice": 50.0,
+        "non_choice": 18.0,
+        "score": 68.0,
+        "gp": 12.0,
+        "rank": 3.0
+      },
+      "math": {
+        "choice": 42.0,
+        "mixed": 7.0,
+        "score": 49.0,
+        "gp": 8.0,
+        "rank": 2.0
+      },
+      "social": {
+        "choice": 50.0,
+        "mixed": 30.0,
+        "score": 80.0,
+        "gp": 11.0,
+        "rank": 12.0
+      },
+      "total": {
+        "score": 251.5,
+        "gp": 42.0,
+        "rank_class": 2.0,
+        "rank_school": 53.0,
+        "rank_all": 15425.0,
+        "rank_gp_class": 2.0,
+        "rank_gp_school": 52.0,
+        "rank_gp_all": 15495.0
+      }
+    }
+  },
+  {
+    "seat": "027",
+    "exam1": {
+      "chinese": {
+        "choice": 57.2,
+        "mixed": 10.0,
+        "writing": 33.0,
+        "score": 66.6,
+        "gp": 14.0,
+        "rank": 3.0
+      },
+      "english": {
+        "choice": 38.0,
+        "non_choice": 25.5,
+        "score": 63.5,
+        "gp": 11.0,
+        "rank": 7.0
+      },
+      "math": {
+        "choice": 24.0,
+        "mixed": 0.0,
+        "score": 24.0,
+        "gp": 4.0,
+        "rank": 17.0
+      },
+      "social": {
+        "choice": 62.0,
+        "mixed": 31.0,
+        "score": 93.0,
+        "gp": 12.0,
+        "rank": 9.0
+      },
+      "total": {
+        "score": 247.1,
+        "gp": 41.0,
+        "rank_class": 8.0,
+        "rank_school": 105.0,
+        "rank_all": 12186.0,
+        "rank_gp_class": 7.0,
+        "rank_gp_school": 92.0,
+        "rank_gp_all": 11691.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 56.0,
+        "mixed": 14.0,
+        "writing": 24.0,
+        "score": 59.0,
+        "gp": 12.0,
+        "rank": 17.0
+      },
+      "english": {
+        "choice": 43.0,
+        "non_choice": 17.5,
+        "score": 60.5,
+        "gp": 11.0,
+        "rank": 8.0
+      },
+      "math": {
+        "choice": 23.0,
+        "mixed": 3.0,
+        "score": 26.0,
+        "gp": 5.0,
+        "rank": 14.0
+      },
+      "social": {
+        "choice": 44.0,
+        "mixed": 31.0,
+        "score": 75.0,
+        "gp": 10.0,
+        "rank": 20.0
+      },
+      "total": {
+        "score": 220.5,
+        "gp": 38.0,
+        "rank_class": 10.0,
+        "rank_school": 165.0,
+        "rank_all": 25895.0,
+        "rank_gp_class": 10.0,
+        "rank_gp_school": 152.0,
+        "rank_gp_all": 24857.0
+      }
+    }
+  },
+  {
+    "seat": "028",
+    "exam1": {
+      "chinese": {
+        "choice": 44.0,
+        "mixed": 11.0,
+        "writing": 25.0,
+        "score": 52.5,
+        "gp": 11.0,
+        "rank": 21.0
+      },
+      "english": {
+        "choice": 26.0,
+        "non_choice": 13.0,
+        "score": 39.0,
+        "gp": 7.0,
+        "rank": 21.0
+      },
+      "math": {
+        "choice": 20.0,
+        "mixed": 0.0,
+        "score": 20.0,
+        "gp": 4.0,
+        "rank": 21.0
+      },
+      "social": {
+        "choice": 62.0,
+        "mixed": 25.0,
+        "score": 87.0,
+        "gp": 11.0,
+        "rank": 13.0
+      },
+      "total": {
+        "score": 198.5,
+        "gp": 33.0,
+        "rank_class": 20.0,
+        "rank_school": 301.0,
+        "rank_all": 22829.0,
+        "rank_gp_class": 20.0,
+        "rank_gp_school": 299.0,
+        "rank_gp_all": 22567.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 57.6,
+        "mixed": 16.0,
+        "writing": 27.0,
+        "score": 63.8,
+        "gp": 13.0,
+        "rank": 7.0
+      },
+      "english": {
+        "choice": 23.0,
+        "non_choice": 7.0,
+        "score": 30.0,
+        "gp": 6.0,
+        "rank": 24.0
+      },
+      "math": {
+        "choice": 14.0,
+        "mixed": 9.0,
+        "score": 23.0,
+        "gp": 4.0,
+        "rank": 20.0
+      },
+      "social": {
+        "choice": 48.0,
+        "mixed": 38.0,
+        "score": 86.0,
+        "gp": 12.0,
+        "rank": 7.0
+      },
+      "total": {
+        "score": 202.8,
+        "gp": 35.0,
+        "rank_class": 18.0,
+        "rank_school": 272.0,
+        "rank_all": 33038.0,
+        "rank_gp_class": 17.0,
+        "rank_gp_school": 258.0,
+        "rank_gp_all": 32142.0
+      }
+    }
+  },
+  {
+    "seat": "029",
+    "exam1": {
+      "chinese": {
+        "choice": 52.4,
+        "mixed": 15.0,
+        "writing": 26.0,
+        "score": 59.7,
+        "gp": 12.0,
+        "rank": 7.0
+      },
+      "english": {
+        "choice": 32.0,
+        "non_choice": 13.33,
+        "score": 45.33,
+        "gp": 8.0,
+        "rank": 17.0
+      },
+      "math": {
+        "choice": 10.0,
+        "mixed": 3.0,
+        "score": 13.0,
+        "gp": 2.0,
+        "rank": 32.0
+      },
+      "social": {
+        "choice": 58.0,
+        "mixed": 26.0,
+        "score": 84.0,
+        "gp": 11.0,
+        "rank": 14.0
+      },
+      "total": {
+        "score": 202.03,
+        "gp": 33.0,
+        "rank_class": 18.0,
+        "rank_school": 290.0,
+        "rank_all": 21968.0,
+        "rank_gp_class": 19.0,
+        "rank_gp_school": 292.0,
+        "rank_gp_all": 22144.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 61.2,
+        "mixed": 13.0,
+        "writing": 25.0,
+        "score": 62.1,
+        "gp": 12.0,
+        "rank": 11.0
+      },
+      "english": {
+        "choice": 26.0,
+        "non_choice": 16.0,
+        "score": 42.0,
+        "gp": 8.0,
+        "rank": 14.0
+      },
+      "math": {
+        "choice": 29.0,
+        "mixed": 5.0,
+        "score": 34.0,
+        "gp": 6.0,
+        "rank": 7.0
+      },
+      "social": {
+        "choice": 44.0,
+        "mixed": 43.0,
+        "score": 87.0,
+        "gp": 12.0,
+        "rank": 5.0
+      },
+      "total": {
+        "score": 225.1,
+        "gp": 38.0,
+        "rank_class": 8.0,
+        "rank_school": 142.0,
+        "rank_all": 24191.0,
+        "rank_gp_class": 9.0,
+        "rank_gp_school": 145.0,
+        "rank_gp_all": 24098.0
+      }
+    }
+  },
+  {
+    "seat": "030",
+    "exam1": {
+      "chinese": {
+        "choice": 30.0,
+        "mixed": 12.0,
+        "writing": 24.0,
+        "score": 45.0,
+        "gp": 9.0,
+        "rank": 26.0
+      },
+      "english": {
+        "choice": 32.0,
+        "non_choice": 16.83,
+        "score": 48.83,
+        "gp": 8.0,
+        "rank": 16.0
+      },
+      "math": {
+        "choice": 16.0,
+        "mixed": 3.0,
+        "score": 19.0,
+        "gp": 3.0,
+        "rank": 25.0
+      },
+      "social": {
+        "choice": 52.0,
+        "mixed": 19.0,
+        "score": 71.0,
+        "gp": 9.0,
+        "rank": 28.0
+      },
+      "total": {
+        "score": 183.83,
+        "gp": 29.0,
+        "rank_class": 26.0,
+        "rank_school": 356.0,
+        "rank_all": 26383.0,
+        "rank_gp_class": 27.0,
+        "rank_gp_school": 369.0,
+        "rank_gp_all": 27746.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 50.0,
+        "mixed": 19.0,
+        "writing": 26.0,
+        "score": 60.5,
+        "gp": 12.0,
+        "rank": 13.0
+      },
+      "english": {
+        "choice": 29.0,
+        "non_choice": 17.0,
+        "score": 46.0,
+        "gp": 8.0,
+        "rank": 12.0
+      },
+      "math": {
+        "choice": 13.0,
+        "mixed": 4.0,
+        "score": 17.0,
+        "gp": 3.0,
+        "rank": 26.0
+      },
+      "social": {
+        "choice": 54.0,
+        "mixed": 26.0,
+        "score": 80.0,
+        "gp": 11.0,
+        "rank": 12.0
+      },
+      "total": {
+        "score": 203.5,
+        "gp": 34.0,
+        "rank_class": 17.0,
+        "rank_school": 267.0,
+        "rank_all": 32753.0,
+        "rank_gp_class": 18.0,
+        "rank_gp_school": 274.0,
+        "rank_gp_all": 33306.0
+      }
+    }
+  },
+  {
+    "seat": "031",
+    "exam1": {
+      "chinese": {
+        "choice": 34.8,
+        "mixed": 13.0,
+        "writing": 30.0,
+        "score": 53.9,
+        "gp": 11.0,
+        "rank": 17.0
+      },
+      "english": {
+        "choice": 17.0,
+        "non_choice": 14.83,
+        "score": 31.83,
+        "gp": 6.0,
+        "rank": 25.0
+      },
+      "math": {
+        "choice": 18.0,
+        "mixed": 3.0,
+        "score": 21.0,
+        "gp": 4.0,
+        "rank": 20.0
+      },
+      "social": {
+        "choice": 54.0,
+        "mixed": 30.0,
+        "score": 84.0,
+        "gp": 11.0,
+        "rank": 14.0
+      },
+      "total": {
+        "score": 190.73,
+        "gp": 32.0,
+        "rank_class": 23.0,
+        "rank_school": 327.0,
+        "rank_all": 24712.0,
+        "rank_gp_class": 22.0,
+        "rank_gp_school": 320.0,
+        "rank_gp_all": 24246.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 44.4,
+        "mixed": 16.0,
+        "writing": 29.0,
+        "score": 59.2,
+        "gp": 12.0,
+        "rank": 16.0
+      },
+      "english": {
+        "choice": 17.0,
+        "non_choice": 17.0,
+        "score": 34.0,
+        "gp": 6.0,
+        "rank": 19.0
+      },
+      "math": {
+        "choice": 13.0,
+        "mixed": 3.0,
+        "score": 16.0,
+        "gp": 3.0,
+        "rank": 29.0
+      },
+      "social": {
+        "choice": 44.0,
+        "mixed": 23.0,
+        "score": 67.0,
+        "gp": 9.0,
+        "rank": 28.0
+      },
+      "total": {
+        "score": 176.2,
+        "gp": 30.0,
+        "rank_class": 24.0,
+        "rank_school": 362.0,
+        "rank_all": 44551.0,
+        "rank_gp_class": 24.0,
+        "rank_gp_school": 365.0,
+        "rank_gp_all": 44686.0
+      }
+    }
+  },
+  {
+    "seat": "032",
+    "exam1": {
+      "chinese": {
+        "choice": 41.6,
+        "mixed": 12.0,
+        "writing": 34.0,
+        "score": 60.8,
+        "gp": 12.0,
+        "rank": 6.0
+      },
+      "english": {
+        "choice": 33.0,
+        "non_choice": 22.5,
+        "score": 55.5,
+        "gp": 9.0,
+        "rank": 14.0
+      },
+      "math": {
+        "choice": 14.0,
+        "mixed": 0.0,
+        "score": 14.0,
+        "gp": 3.0,
+        "rank": 29.0
+      },
+      "social": {
+        "choice": 54.0,
+        "mixed": 27.0,
+        "score": 81.0,
+        "gp": 11.0,
+        "rank": 19.0
+      },
+      "total": {
+        "score": 211.3,
+        "gp": 35.0,
+        "rank_class": 15.0,
+        "rank_school": 260.0,
+        "rank_all": 19796.0,
+        "rank_gp_class": 15.0,
+        "rank_gp_school": 254.0,
+        "rank_gp_all": 19539.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 58.8,
+        "mixed": 16.0,
+        "writing": 29.0,
+        "score": 66.4,
+        "gp": 13.0,
+        "rank": 2.0
+      },
+      "english": {
+        "choice": 24.0,
+        "non_choice": 22.5,
+        "score": 46.5,
+        "gp": 8.0,
+        "rank": 11.0
+      },
+      "math": {
+        "choice": 21.0,
+        "mixed": 0.0,
+        "score": 21.0,
+        "gp": 4.0,
+        "rank": 23.0
+      },
+      "social": {
+        "choice": 48.0,
+        "mixed": 28.0,
+        "score": 76.0,
+        "gp": 11.0,
+        "rank": 17.0
+      },
+      "total": {
+        "score": 209.9,
+        "gp": 36.0,
+        "rank_class": 14.0,
+        "rank_school": 229.0,
+        "rank_all": 30044.0,
+        "rank_gp_class": 14.0,
+        "rank_gp_school": 214.0,
+        "rank_gp_all": 29338.0
+      }
+    }
+  },
+  {
+    "seat": "033",
+    "exam1": {
+      "chinese": {
+        "choice": 61.2,
+        "mixed": 15.0,
+        "writing": 37.0,
+        "score": 75.1,
+        "gp": 15.0,
+        "rank": 1.0
+      },
+      "english": {
+        "choice": 46.0,
+        "non_choice": 19.83,
+        "score": 65.83,
+        "gp": 11.0,
+        "rank": 4.0
+      },
+      "math": {
+        "choice": 33.0,
+        "mixed": 8.0,
+        "score": 41.0,
+        "gp": 7.0,
+        "rank": 7.0
+      },
+      "social": {
+        "choice": 68.0,
+        "mixed": 34.0,
+        "score": 102.0,
+        "gp": 13.0,
+        "rank": 5.0
+      },
+      "total": {
+        "score": 283.93,
+        "gp": 46.0,
+        "rank_class": 3.0,
+        "rank_school": 27.0,
+        "rank_all": 6266.0,
+        "rank_gp_class": 3.0,
+        "rank_gp_school": 27.0,
+        "rank_gp_all": 6197.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 60.8,
+        "mixed": 17.0,
+        "writing": 24.0,
+        "score": 62.9,
+        "gp": 12.0,
+        "rank": 8.0
+      },
+      "english": {
+        "choice": 41.0,
+        "non_choice": 26.5,
+        "score": 67.5,
+        "gp": 12.0,
+        "rank": 4.0
+      },
+      "math": {
+        "choice": 47.0,
+        "mixed": 7.0,
+        "score": 54.0,
+        "gp": 9.0,
+        "rank": 1.0
+      },
+      "social": {
+        "choice": 62.0,
+        "mixed": 36.0,
+        "score": 98.0,
+        "gp": 13.0,
+        "rank": 3.0
+      },
+      "total": {
+        "score": 282.4,
+        "gp": 46.0,
+        "rank_class": 1.0,
+        "rank_school": 11.0,
+        "rank_all": 7870.0,
+        "rank_gp_class": 1.0,
+        "rank_gp_school": 17.0,
+        "rank_gp_all": 8628.0
+      }
+    }
+  },
+  {
+    "seat": "034",
+    "exam1": {
+      "chinese": {
+        "choice": 43.6,
+        "mixed": 11.0,
+        "writing": 26.0,
+        "score": 53.3,
+        "gp": 11.0,
+        "rank": 19.0
+      },
+      "english": {
+        "choice": 42.0,
+        "non_choice": 18.33,
+        "score": 60.33,
+        "gp": 10.0,
+        "rank": 9.0
+      },
+      "math": {
+        "choice": 20.0,
+        "mixed": 3.0,
+        "score": 23.0,
+        "gp": 4.0,
+        "rank": 18.0
+      },
+      "social": {
+        "choice": 52.0,
+        "mixed": 27.0,
+        "score": 79.0,
+        "gp": 10.0,
+        "rank": 23.0
+      },
+      "total": {
+        "score": 215.63,
+        "gp": 35.0,
+        "rank_class": 14.0,
+        "rank_school": 240.0,
+        "rank_all": 18798.0,
+        "rank_gp_class": 14.0,
+        "rank_gp_school": 245.0,
+        "rank_gp_all": 19026.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 50.0,
+        "mixed": 11.0,
+        "writing": 24.0,
+        "score": 54.5,
+        "gp": 11.0,
+        "rank": 22.0
+      },
+      "english": {
+        "choice": 45.0,
+        "non_choice": 19.5,
+        "score": 64.5,
+        "gp": 11.0,
+        "rank": 5.0
+      },
+      "math": {
+        "choice": 17.0,
+        "mixed": 3.0,
+        "score": 20.0,
+        "gp": 4.0,
+        "rank": 24.0
+      },
+      "social": {
+        "choice": 44.0,
+        "mixed": 25.0,
+        "score": 69.0,
+        "gp": 10.0,
+        "rank": 25.0
+      },
+      "total": {
+        "score": 208.0,
+        "gp": 36.0,
+        "rank_class": 15.0,
+        "rank_school": 243.0,
+        "rank_all": 30878.0,
+        "rank_gp_class": 15.0,
+        "rank_gp_school": 219.0,
+        "rank_gp_all": 29609.0
+      }
+    }
+  },
+  {
+    "seat": "035",
+    "exam1": {
+      "chinese": {
+        "choice": 26.4,
+        "mixed": 4.0,
+        "writing": 10.0,
+        "score": 25.2,
+        "gp": 5.0,
+        "rank": 34.0
+      },
+      "english": {
+        "choice": 24.0,
+        "non_choice": 4.0,
+        "score": 28.0,
+        "gp": 5.0,
+        "rank": 29.0
+      },
+      "math": {
+        "choice": 14.0,
+        "mixed": 3.0,
+        "score": 17.0,
+        "gp": 3.0,
+        "rank": 28.0
+      },
+      "social": {
+        "choice": 40.0,
+        "mixed": 13.0,
+        "score": 53.0,
+        "gp": 7.0,
+        "rank": 33.0
+      },
+      "total": {
+        "score": 123.2,
+        "gp": 20.0,
+        "rank_class": 33.0,
+        "rank_school": 423.0,
+        "rank_all": 37649.0,
+        "rank_gp_class": 33.0,
+        "rank_gp_school": 423.0,
+        "rank_gp_all": 38051.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 45.2,
+        "mixed": 6.0,
+        "writing": 14.0,
+        "score": 39.6,
+        "gp": 8.0,
+        "rank": 34.0
+      },
+      "english": {
+        "choice": 24.0,
+        "non_choice": 3.5,
+        "score": 27.5,
+        "gp": 5.0,
+        "rank": 26.0
+      },
+      "math": {
+        "choice": 26.0,
+        "mixed": 3.0,
+        "score": 29.0,
+        "gp": 5.0,
+        "rank": 12.0
+      },
+      "social": {
+        "choice": 42.0,
+        "mixed": 15.0,
+        "score": 57.0,
+        "gp": 8.0,
+        "rank": 33.0
+      },
+      "total": {
+        "score": 153.1,
+        "gp": 26.0,
+        "rank_class": 30.0,
+        "rank_school": 406.0,
+        "rank_all": 53846.0,
+        "rank_gp_class": 30.0,
+        "rank_gp_school": 410.0,
+        "rank_gp_all": 54362.0
+      }
+    }
+  },
+  {
+    "seat": "036",
+    "exam1": {
+      "chinese": {
+        "choice": 44.4,
+        "mixed": 11.0,
+        "writing": 35.0,
+        "score": 62.7,
+        "gp": 13.0,
+        "rank": 5.0
+      },
+      "english": {
+        "choice": 40.0,
+        "non_choice": 21.83,
+        "score": 61.83,
+        "gp": 11.0,
+        "rank": 8.0
+      },
+      "math": {
+        "choice": 19.0,
+        "mixed": 8.0,
+        "score": 27.0,
+        "gp": 5.0,
+        "rank": 14.0
+      },
+      "social": {
+        "choice": 76.0,
+        "mixed": 32.0,
+        "score": 108.0,
+        "gp": 14.0,
+        "rank": 3.0
+      },
+      "total": {
+        "score": 259.53,
+        "gp": 43.0,
+        "rank_class": 6.0,
+        "rank_school": 72.0,
+        "rank_all": 9971.0,
+        "rank_gp_class": 6.0,
+        "rank_gp_school": 66.0,
+        "rank_gp_all": 9428.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 59.6,
+        "mixed": 20.0,
+        "writing": 31.0,
+        "score": 70.8,
+        "gp": 14.0,
+        "rank": 1.0
+      },
+      "english": {
+        "choice": 44.0,
+        "non_choice": 24.5,
+        "score": 68.5,
+        "gp": 12.0,
+        "rank": 2.0
+      },
+      "math": {
+        "choice": 22.0,
+        "mixed": 3.0,
+        "score": 25.0,
+        "gp": 4.0,
+        "rank": 15.0
+      },
+      "social": {
+        "choice": 56.0,
+        "mixed": 24.0,
+        "score": 80.0,
+        "gp": 11.0,
+        "rank": 12.0
+      },
+      "total": {
+        "score": 244.3,
+        "gp": 41.0,
+        "rank_class": 3.0,
+        "rank_school": 75.0,
+        "rank_all": 17622.0,
+        "rank_gp_class": 3.0,
+        "rank_gp_school": 76.0,
+        "rank_gp_all": 17594.0
+      }
+    }
+  },
+  {
+    "seat": "037",
+    "exam1": {
+      "chinese": {
+        "choice": 51.6,
+        "mixed": 8.0,
+        "writing": 29.0,
+        "score": 58.8,
+        "gp": 12.0,
+        "rank": 10.0
+      },
+      "english": {
+        "choice": 20.0,
+        "non_choice": 10.5,
+        "score": 30.5,
+        "gp": 5.0,
+        "rank": 28.0
+      },
+      "math": {
+        "choice": 38.0,
+        "mixed": 8.0,
+        "score": 46.0,
+        "gp": 7.0,
+        "rank": 6.0
+      },
+      "social": {
+        "choice": 70.0,
+        "mixed": 29.0,
+        "score": 99.0,
+        "gp": 13.0,
+        "rank": 6.0
+      },
+      "total": {
+        "score": 234.3,
+        "gp": 37.0,
+        "rank_class": 9.0,
+        "rank_school": 152.0,
+        "rank_all": 14708.0,
+        "rank_gp_class": 10.0,
+        "rank_gp_school": 170.0,
+        "rank_gp_all": 15745.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 46.0,
+        "mixed": 13.0,
+        "writing": 26.0,
+        "score": 55.5,
+        "gp": 11.0,
+        "rank": 20.0
+      },
+      "english": {
+        "choice": 21.0,
+        "non_choice": 11.0,
+        "score": 32.0,
+        "gp": 6.0,
+        "rank": 22.0
+      },
+      "math": {
+        "choice": 20.0,
+        "mixed": 5.0,
+        "score": 25.0,
+        "gp": 4.0,
+        "rank": 15.0
+      },
+      "social": {
+        "choice": 48.0,
+        "mixed": 35.0,
+        "score": 83.0,
+        "gp": 11.0,
+        "rank": 9.0
+      },
+      "total": {
+        "score": 195.5,
+        "gp": 32.0,
+        "rank_class": 20.0,
+        "rank_school": 297.0,
+        "rank_all": 36108.0,
+        "rank_gp_class": 20.0,
+        "rank_gp_school": 308.0,
+        "rank_gp_all": 38135.0
+      }
+    }
+  },
+  {
+    "seat": "038",
+    "exam1": {
+      "chinese": {
+        "choice": 39.2,
+        "mixed": 14.0,
+        "writing": 0.0,
+        "score": 26.6,
+        "gp": 6.0,
+        "rank": 33.0
+      },
+      "english": {
+        "choice": 38.0,
+        "non_choice": 19.33,
+        "score": 57.33,
+        "gp": 10.0,
+        "rank": 11.0
+      },
+      "math": {
+        "choice": 0.0,
+        "mixed": 0.0,
+        "score": 0.0,
+        "gp": 0.0,
+        "rank": ""
+      },
+      "social": {
+        "choice": 0.0,
+        "mixed": 0.0,
+        "score": 0.0,
+        "gp": 0.0,
+        "rank": ""
+      },
+      "total": {
+        "score": 83.93,
+        "gp": 16.0,
+        "rank_class": 36.0,
+        "rank_school": 432.0,
+        "rank_all": 40330.0,
+        "rank_gp_class": 36.0,
+        "rank_gp_school": 431.0,
+        "rank_gp_all": 40105.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 50.4,
+        "mixed": 16.0,
+        "writing": 25.0,
+        "score": 58.2,
+        "gp": 12.0,
+        "rank": 18.0
+      },
+      "english": {
+        "choice": 28.0,
+        "non_choice": 17.5,
+        "score": 45.5,
+        "gp": 8.0,
+        "rank": 13.0
+      },
+      "math": {
+        "choice": 27.0,
+        "mixed": 7.0,
+        "score": 34.0,
+        "gp": 6.0,
+        "rank": 7.0
+      },
+      "social": {
+        "choice": 46.0,
+        "mixed": 24.0,
+        "score": 70.0,
+        "gp": 10.0,
+        "rank": 23.0
+      },
+      "total": {
+        "score": 207.7,
+        "gp": 36.0,
+        "rank_class": 16.0,
+        "rank_school": 246.0,
+        "rank_all": 30992.0,
+        "rank_gp_class": 16.0,
+        "rank_gp_school": 221.0,
+        "rank_gp_all": 29639.0
+      }
+    }
+  },
+  {
+    "seat": "039",
+    "exam1": {
+      "chinese": {
+        "choice": 36.4,
+        "mixed": 9.0,
+        "writing": 30.0,
+        "score": 52.7,
+        "gp": 11.0,
+        "rank": 20.0
+      },
+      "english": {
+        "choice": 19.0,
+        "non_choice": 11.83,
+        "score": 30.83,
+        "gp": 5.0,
+        "rank": 27.0
+      },
+      "math": {
+        "choice": 3.0,
+        "mixed": 3.0,
+        "score": 6.0,
+        "gp": 1.0,
+        "rank": 34.0
+      },
+      "social": {
+        "choice": 44.0,
+        "mixed": 15.0,
+        "score": 59.0,
+        "gp": 8.0,
+        "rank": 32.0
+      },
+      "total": {
+        "score": 148.53,
+        "gp": 25.0,
+        "rank_class": 31.0,
+        "rank_school": 412.0,
+        "rank_all": 33983.0,
+        "rank_gp_class": 30.0,
+        "rank_gp_school": 410.0,
+        "rank_gp_all": 33899.0
+      }
+    },
+    "exam2": {
+      "chinese": {
+        "choice": 46.4,
+        "mixed": 16.0,
+        "writing": 27.0,
+        "score": 58.2,
+        "gp": 12.0,
+        "rank": 18.0
+      },
+      "english": {
+        "choice": 13.0,
+        "non_choice": 14.0,
+        "score": 27.0,
+        "gp": 5.0,
+        "rank": 27.0
+      },
+      "math": {
+        "choice": 19.0,
+        "mixed": 6.0,
+        "score": 25.0,
+        "gp": 4.0,
+        "rank": 15.0
+      },
+      "social": {
+        "choice": 46.0,
+        "mixed": 23.0,
+        "score": 69.0,
+        "gp": 10.0,
+        "rank": 25.0
+      },
+      "total": {
+        "score": 179.2,
+        "gp": 31.0,
+        "rank_class": 23.0,
+        "rank_school": 350.0,
+        "rank_all": 43243.0,
+        "rank_gp_class": 23.0,
+        "rank_gp_school": 349.0,
+        "rank_gp_all": 42675.0
+      }
+    }
+  }
+]
